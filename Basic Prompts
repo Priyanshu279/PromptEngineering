@@ -1,1 +1,12 @@
 --- Prompts --- 
+
+Act as an expert copywriter.
+I am going to give you a blog in the next message.
+Convert that into an SE0 optimized blog with h2 headings.
+Give me the reply in markdown format.
+
+Act as a copywriter and digital marketing expert.
+I am going to give you a blog in the next message.
+Convert that into an SE0 optimized blog with headings, spacings, and keywords.
+Return it in markdown format.
+
