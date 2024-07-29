@@ -1,0 +1,43 @@
+Full stack projects with chat GPT:
+
+JS projects
+https://chat.openai.com/share/f2ba18b2-e499-4798-a707-180044d53d49 
+I want to make a todo list app in javascript with local storage. give me the code for it
+I want to make a weather app with API and real data in javascript. Give me the code for that
+I want to make a simple calculator app in javascript. Give me the code for that
+I want to make a simple signature app with canvas in javascript. Give me the code for that
+I want to make a simple BMI calculation app in javascript. Give me the code for that
+
+React projects
+https://chat.openai.com/share/f2f5f3e4-ad16-4b52-9851-7c25d4b11c06 
+Repeat all JS projects
+I want to make a weather app in React with real time data. Give me the code for that.
+I want to make a RSS API app in React with real time data. Give me the code for that.
+I want to make a finance trading app in React with real time data. Give me the code for that.
+I want to make a fitness tracking app in React with real time data. Give me the code for that.
+
+Learn context in React
+https://chat.openai.com/share/265b31e4-bae8-461f-a687-3a45e79c6086 
+
+Learn redux in React
+https://chat.openai.com/share/c96a188e-617c-492d-adfb-19244d2af562 
+
+Prisma ORM
+https://chat.openai.com/share/9f105b15-f181-4388-8b51-84753c2fba28 
+
+Next js and Firebase
+https://chat.openai.com/share/97e1256b-7712-4a80-bf61-f57c0e4ba8c8 
+
+Ecommerce app
+https://chat.openai.com/share/7fce32c5-22df-4513-a555-f87c580d3687 
+
+MongoDB and mongoose
+https://chat.openai.com/share/adf38125-bc5c-4379-870f-d3a2eebb43a8 
+
+Node and express JS
+https://chat.openai.com/share/d8ea1e61-95e2-43a7-8c2e-7d51ffd2fcdd 
+
+Helpful prompts
+I want to learn node and express js in detail. start with a very simple example and explain with commented code 
+teach me routing in express with some basic examples
+I want a database for an ecommerce app. give me the db and prisma models for that 
