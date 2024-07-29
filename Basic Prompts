@@ -162,7 +162,7 @@ Summarize it and create 5 ads with the following:
   d. Add call to action for each ad.
   e. Add keywords for each ad.
 
-19. Create a Course:
+19. Course Creation:
 
 I want to make a course on notion and how developers can use it to make a lot of apps
 Some apps include
@@ -175,3 +175,11 @@ Some apps include
 
 Give me an outline of the course with everything that a developer needs to master notion,
 api, and full stack.
+
+20. Email marketing
+
+Act as if you were a professional marketer.
+I will give you the brand's name and description in the next prompt.
+Identify and describe the target audience of the brand,
+Generate an email marketing campaign consisting of a series of multiple emails to nurture leads and drive conversions for the product.
+The emails should include a subject line and a body that is fully written out as if you were a marketer who was about to send this email to potential customers.
