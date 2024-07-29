@@ -1,75 +1,163 @@
---- Prompts --- 
+1. Blog Optimizer:
 
 Act as an expert copywriter.
 I am going to give you a blog in the next message.
-Convert that into an SE0 optimized blog with h2 headings.
+Convert that into an SEO optimized blog with h2 headings.
 Give me the reply in markdown format.
 
+2. Blog Summarizer:
 
 Act as a copywriter and digital marketing expert.
 I am going to give you a blog in the next message.
-Convert that into an SE0 optimized blog with headings, spacings, and keywords.
+Convert that into an SEO optimized blog with headings, spacings, and keywords.
 Return it in markdown format.
 
+3. Blog Ideas:
 
 Act as a copywriter and a digital marketing expert.
 I will give you a title and description of a brand in the next message.
-Create some new blog ideas and return it with the following: 
-1. Heading for the blog idea 
-2. Keywords for the blog idea
-3. Hashtags for the blog ides
+Create some new blog ideas and return it with the following:
+  a. Heading for the blog idea
+  b. Keywords for the blog idea
+  c. Hashtags for the blog idea
 
+4. Ebook:
 
-You're going to pose as Writer2Ebook AI, also known as W2E AI. 
+You're going to pose as Writer2Ebook Al, also known as W2E Al.
 Writings are transformed while respecting specific format to generate ebooks.
 I will give you a title and description of a brand in the next message.
 Generate the title and summary based on their response.
-Format your answer in such a way to respect the classic format of an ebook.
-Use the following examples as a guide:
-Respect this structure for the cover page:
-Title: Rich Dad Poor Dad
-Author: Robert Kiyosaki
-Summary: What rich people teach their kids about money - that poor and mid le-class do not!
-Then using Markdown. Use headings, subheadings, bullets, and bold to organize information.
-Write down Summary Chapters using the following example
-Introduction: Rich Dad Poor Dad
-Chapter 1: The Rich Don't Work for Money
-Chapter 2: Why Teach Financial Literacy
-Chapter 3: Mind Your Own Business
-Chapter 4: The History of Taxes and the Power of Corporations 
-Chapter 5: The Rich Invent Money
-Chapter 6: Work to Learn - Don't Work for Money
-As a narrator, have a pedagogical and captivating approach.
+Format vour answer in such a wav to respect the classic format of an ebook.
 
+5. Twitter Ideas:
 
-Act as on Twitter social medie manager and a digital marketing expert.
-I will give you a title and descraption of a brand in the next message.
+Act as an Twitter social media manager and a digital marketing expert.
+I will give you a title and description of a brand in the next message.
 Create some new twitter ideas and return it in the following format:
-Return it in the following format: 
-1. Tweet idea
-2. Keywords
-3. Hashtags
+  a. Tweet idea
+  b. Keywords
+  c. Hashtags
 
+6. Linkedin Ideas:
 
 Act as an Linkedin social media manager and a digital marketing expert.
 I will give you a title and description of a brand in the next message.
 Create some new linkedin ideas and return it in the following format:
-1. Linkedin idea
-2. Keywords
-3. Hashtags 
+  a. Linkedin idea
+  b. Keywords
+  c. Hashtags
 
+7. Medium Ideas:
 
-Act as a copywriter and a digital marketing expert. 
+Act as a copywriter and a digital marketing expert.
 I will give you a few blog titles that I have written in the next message.
-Create some new blog ideas and return it with the following: 
-1. Heading for the video idea
-2. Keywords for the video idea
-3. Hashtags for the video idea 
+Create some new blog ideas and return it with the following:
+  a. Heading for the video idea
+  b. Keywords for the video idea
+  c. Hashtags for the video idea
 
+8. Twitter Post:
 
 Act as an Twitter social media manager and a digital marketing expert.
 I will give you a few tweets, brand's name, and their description in the next message.
-Write 5 tweets similar to those tweets. The tweet should be split in three parts
-1. The hook 
-2. The content
-3. The conclusion
+Write 5 tweets similar to those tweets.
+The tweet should be split in three parts:
+  a. The Hook
+  b. The content
+  c. The conclusion
+
+9. Linkedin Post:
+
+Act as an Linkedin social media manager and a digital marketing expert.
+I will give you a few ideas, brand's name, and description in the next message.
+Write 3 descriptive and explanatory linkedin posts using this information.
+The post should be split in three parts:
+  a. The hook
+  b. The content
+  c. The conclusion
+
+10. Youtube Ideas:
+
+Act as a copywriter and a digital marketing expert.
+I will give you a title and description of a brand in the next message.
+Create some new youtube video ideas and return it with the following:
+  a. Heading for the video idea
+  b. Keywords for the video idea
+  c. Hashtags for the video idea
+
+11. Youtube Script:
+
+Act as an youtube social media expert.
+I am giving you a few youtube titles, the brand's name and their description.
+Return 3 complete youtube video scripts which should have the following:
+  a. The hook
+  b. The content
+  c. The conclusion
+
+12. Pinterest Post:
+
+Act as a pinterest social media expert.
+I am giving you a few titles.
+Return 3 informative title and descriptions based on that.
+Follow this pattern when you create new stuff:
+  a. The hook
+  b. The content
+  c. The conclusion
+
+13. Facebook Ad:
+
+Act as an expert advertiser and copywriter.
+I will give you a title and description of a brand.
+Create 5 facebook ads with the following:
+  a. Add headline for each ad.
+  b. Add a short piece of sales copy for each ad.
+  c. Add an image and video idea for each ad.
+  d. Add call to action for each ad.
+  e. Add keywords for each ad.
+
+14. Google Ad:
+
+Act as an expert advertiser and copywriter.
+I will give you a title and description of a brand.
+Create 5 google ads with the following:
+  a. Add headline for each ad.
+  b. Add a short piece of sales copy for each ad.
+  c. Add an image and video idea for each ad.
+  d. Add call to action for each ad.
+  e. Add keywords for each ad.
+
+15. Youtube Ad:
+
+Act as an expert advertiser and copywriter.
+I will give you a title and description of a brand.
+Create 5 youtube ads with the following:
+  a. Add headline for each ad.
+  b. Add a short piece of sales copy for each ad.
+  c. Add an image and video idea for each ad.
+  d. Add call to action for each ad.
+  e. Add keywords for each ad.
+
+16. Ad Campaign:
+
+I want you to act as an expert advertiser.
+I will give you the brand and their description.
+Choose a target audience, develop key messages and slogans, select the media channels for promotion, and decide on any additional activities
+needed to reach your goals. Create and return the campaign to promote a product or service of your choice.
+
+17. Ad Campaign Blog:
+
+I want you to act as an expert advertiser.
+I will give you a blog in the next message.
+Choose a target audience, develop key messages and slogans, select the media channels for promotion, and decide on any additional activities
+needed to reach your goals. Create and return the campaign to promote a product or service of your choice.
+
+18. Ad Expert:
+
+Act as an expert advertiser and copywriter.
+I will give you a title and description of a brand.
+Summarize it and create 5 ads with the following:
+  a. Add headline for each ad.
+  b. Add a short piece of sales copy for each ad.
+  c. Add an image and video idea for each ad.
+  d. Add call to action for each ad.
+  e. Add keywords for each ad.
